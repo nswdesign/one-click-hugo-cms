@@ -1,20 +1,43 @@
 ---
-title: "Great coffee with a conscience"
+title: Great coffee with a conscience
 subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+image: /img/pita-bread-soft-1117-web-1980-q65.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Since 1972
+  text: >-
+    We are dedicated to provide you with a healthy and unique taste of
+    Mediterranean and Middle Eastern cuisine, using the finest ingredients in
+    our food preparation, of which we share your concern regarding health and
+    nutrition.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: Bakery | Deli | Market | Catering
+  text: >-
+    We have served the West Palm Beach area with the best authentic
+    Mediterranean and Middle Eastern cuisine since 1972. Our impressive olive
+    selection, fresh tabbouleh, and a great fresh fattoush along with the feta
+    and other options definitely are a dream come true for anyone who enjoys
+    Mediterranean food. Other wares include a collection of tahini, hummus and
+    fresh baked pita. Vegetarian options are plentiful.
+
+    Eddie Salloum and Marie Salloum
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: /img/mmd-pitachips-zaatar-029-1237-web-1980-q65.jpg
+    text: Zaatar Pita Chips
+  - image: /img/mmd-pitachips-original-020-1228-web-1980-q65.jpg
+    text: Original Pita Chips
+  - image: /img/mmd-shish_tawook-037-fullsize-photo-by-neilswhite.com.jpg
+    text: Shish Tawook Wrap
+  - image: /img/mmd-wraps-warm-gyro-005-fullsize-photo-by-neilswhite.com.jpg
+    text: Gyro
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Our values
+  text: >-
+    We have served the West Palm Beach area with the best authentic
+    Mediterranean and Middle Eastern cuisine since 1972. Our impressive olive
+    selection, fresh tabbouleh, and a great fresh fattoush along with the feta
+    and other options definitely are a dream come true for anyone who enjoys
+    Mediterranean food. Other wares include a collection of tahini, hummus and
+    fresh baked pita. Vegetarian options are plentiful. Eddie Salloum and Marie
+    Salloum
 ---
 
